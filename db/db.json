@@ -1,0 +1,238 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "gabriel",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cebola roxa",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "gabriel",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cebola roxa",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "zeva",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "Raynara",
+      "carne": "mamina",
+      "pao": "Integral",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "MAtheus",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "Danieçl",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "teste",
+      "carne": "Picanha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "teste",
+      "carne": "mamina",
+      "pao": "Integral",
+      "opcionais": [
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    },
+    {
+      "nome": "zeva",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 9
+    },
+    {
+      "nome": "Danieçl",
+      "carne": "mamina",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 10
+    },
+    {
+      "nome": "MAtheus",
+      "carne": "mamina",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 11
+    },
+    {
+      "nome": "gabriel",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 12
+    },
+    {
+      "nome": "zeva",
+      "carne": null,
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 13
+    },
+    {
+      "nome": "Teste final",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 14
+    },
+    {
+      "nome": "Teste finalç 222222222",
+      "carne": "mamina",
+      "pao": "Integral",
+      "opcionais": [
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 15
+    }
+  ]
+}
